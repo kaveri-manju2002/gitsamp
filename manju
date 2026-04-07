@@ -1,0 +1,23 @@
+!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>My First Web Page</title>
+</head>
+<body>
+    <h1>Welcome to My Website</h1>
+    <p>This is a simple paragraph of text in HTML.</p>
+    
+    <!-- This is a link to another site -->
+    <a href="https://www.w3schools.com">Visit W3Schools for more tutorials</a>
+    
+    <hr>
+    
+    <h2>An Unordered List</h2>
+    <ul>
+        <li>HTML (Structure)</li>
+        <li>CSS (Styling)</li>
+        <li>JavaScript (Functionality)</li>
+    </ul>
+</body>
+</html>
